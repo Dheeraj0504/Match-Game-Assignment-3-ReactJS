@@ -1,0 +1,6 @@
+.app-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding-bottom: 40px;
+}
